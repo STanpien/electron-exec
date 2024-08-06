@@ -1,7 +1,10 @@
  ## [Download In Release](https://github.com/STanpien/electron-exec/releases/tag/V4.3)
 
- <div align="center">
+ 
 <img src="https://i.ibb.co/HtV7RQR/What-Is-Electron-Executor.webp" />
+
+
+
 
 ## Features
 - **Console Mode:** 
